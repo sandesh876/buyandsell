@@ -1,0 +1,30 @@
+footer{
+    height: 50px;
+}
+footer p{
+    padding-top: 10px;
+}
+.image{
+    background: url("../img/ex.jpg") no-repeat center ;
+    background-size: cover;
+    height: 600px;
+}
+.top
+{
+    margin: 20px;
+    font-weight: 600;
+    font-size: 30px;
+}
+.top_1
+{
+    margin: 20px;
+    font-weight: 400;
+    font-size: 30px;
+}
+.login_form{
+    width: 400px;
+    margin: 0 auto;
+}
+.login_form input,button{
+    margin: 10px;
+}
